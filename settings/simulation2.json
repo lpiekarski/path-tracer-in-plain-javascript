@@ -1,0 +1,15 @@
+{
+	"bounces":5,
+	"samples":1,
+	"pixel_size":1,
+	"dw":1,
+	"dh":1,
+	"exposure":1,
+	"jump":1,
+	"position":[-2,1.4,-5],
+	"rotx":-0.5,
+	"roty":-0.4,
+	"zScale":5,
+	"net_size":0.07,
+	"depth":2.7
+}

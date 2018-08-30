@@ -1,0 +1,144 @@
+{
+	"octree_origin":[0,0,0],
+	"octree_size":32,
+	"background":[0,0,0,0],
+	"lights":
+	[
+		{
+			"type":"point",
+			"position":[1.8,6,-3],
+			"color":[1,1,1,10],
+			"radius":0.5
+		},
+		{
+			"type":"point",
+			"position":[-2.5,2.4,-3.4],
+			"color":[1,1,1,20],
+			"radius":0.5
+		}
+	],
+	"quads": 
+	[
+		{
+			"group":"2",
+			"texture":"textures/164.JPG",
+			"uv":[[0,0,0],[0,1,0],[1,0,0],[1,1,0]],
+			"normal_map":"textures/164_norm.JPG",
+			"points":[[-1,-1,1],[-1,1,1],[1,-1,1],[1,1,1]],
+			"offset":[-0.2,-0.2,-2],
+			"material":
+			{
+				"diffuse":[1,1,1,1],
+				"reflect":[0,0,0,0],
+				"refract":[0,0,0,0],
+				"eta":1
+			}
+		},
+		{
+			"group":"2",
+			"texture":"textures/164.JPG",
+			"uv":[[0,0,0],[0,1,0],[1,0,0],[1,1,0]],
+			"normal_map":"textures/164_norm.JPG",
+			"points":[[-1,-1,-1],[-1,1,-1],[1,-1,-1],[1,1,-1]],
+			"offset":[-0.2,-0.2,-2],
+			"material":
+			{
+				"diffuse":[1,1,1,1],
+				"reflect":[0,0,0,0],
+				"refract":[0,0,0,0],
+				"eta":1
+			}
+		},
+		{
+			"group":"2",
+			"texture":"textures/164.JPG",
+			"uv":[[0,0,0],[0,1,0],[1,0,0],[1,1,0]],
+			"normal_map":"textures/164_norm.JPG",
+			"points":[[-1,1,-1],[-1,1,1],[1,1,-1],[1,1,1]],
+			"offset":[-0.2,-0.2,-2],
+			"material":
+			{
+				"diffuse":[1,1,1,1],
+				"reflect":[0,0,0,0],
+				"refract":[0,0,0,0],
+				"eta":1
+			}
+		},
+		{
+			"group":"2",
+			"texture":"textures/164.JPG",
+			"uv":[[0,0,0],[0,1,0],[1,0,0],[1,1,0]],
+			"normal_map":"textures/164_norm.JPG",
+			"points":[[-1,-1,-1],[-1,-1,1],[1,-1,-1],[1,-1,1]],
+			"offset":[-0.2,-0.2,-2],
+			"material":
+			{
+				"diffuse":[1,1,1,1],
+				"reflect":[0,0,0,0],
+				"refract":[0,0,0,0],
+				"eta":1
+			}
+		},
+		{
+			"group":"2",
+			"texture":"textures/164.JPG",
+			"uv":[[0,0,0],[0,1,0],[1,0,0],[1,1,0]],
+			"normal_map":"textures/164_norm.JPG",
+			"points":[[1,-1,-1],[1,-1,1],[1,1,-1],[1,1,1]],
+			"offset":[-0.2,-0.2,-2],
+			"material":
+			{
+				"diffuse":[1,1,1,1],
+				"reflect":[0,0,0,0],
+				"refract":[0,0,0,0],
+				"eta":1
+			}
+		},
+		{
+			"group":"2",
+			"texture":"textures/164.JPG",
+			"uv":[[0,0,0],[0,1,0],[1,0,0],[1,1,0]],
+			"normal_map":"textures/164_norm.JPG",
+			"points":[[-1,-1,-1],[-1,-1,1],[-1,1,-1],[-1,1,1]],
+			"offset":[-0.2,-0.2,-2],
+			"material":
+			{
+				"diffuse":[1,1,1,1],
+				"reflect":[0,0,0,0],
+				"refract":[0,0,0,0],
+				"eta":1
+			}
+		},
+		
+		
+		
+		
+		
+		
+		
+		
+		{
+			"group":"1",
+			"texture":"textures/157.JPG",
+			"uv":[[0,0,0],[0,7,0],[7,0,0],[7,7,0]],
+			"normal_map":"textures/157_norm.JPG",
+			"points":[[-10,-1,-10],[-10,-1,10],[10,-1,-10],[10,-1,10]],
+			"offset":[0,-0.2,0],
+			"material":
+			{
+				"diffuse":[1,1,1,1],
+				"reflect":[1,1,1,0.8],
+				"refract":[0,0,0,0],
+				"eta":1.15
+			}
+		}
+		
+		
+		
+		
+		
+		
+		
+
+	]
+}

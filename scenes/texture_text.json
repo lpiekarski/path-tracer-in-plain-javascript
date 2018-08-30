@@ -1,0 +1,29 @@
+{
+	"bounces":10,
+	"background":[0,0,0,0],
+	"lights":
+	[
+		{
+			"type":"sun",
+			"color":[1,1,1,2],
+			"direction":[1,-1,1]
+		}
+	],
+	"quads": 
+	[
+		{
+			"group":"2",
+			"texture":"textures/152.JPG",
+			"uv":[[0,0,0],[0,2,0],[2,0,0],[2,2,0]],
+			"points":[[-1,-1,1],[-1,1,1],[1,-1,1],[1,1,1]],
+			"offset":[0,0,2],
+			"material":
+			{
+				"diffuse":[1,1,1,1],
+				"reflect":[0,0,0,0],
+				"refract":[0,0,0,0],
+				"eta":1.15
+			}
+		}
+	]
+}
