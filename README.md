@@ -1,3 +1,5 @@
+# Description
+Recursive path tracer written in JavaScript without any external library usage.
 # Gallery
 ## Sub surface scattering
 ![alt text](https://raw.githubusercontent.com/lpiekarski/path-tracer-javascript/master/screenshots/big_size.png)
